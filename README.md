@@ -2,4 +2,4 @@
 
 This repository contains a cracked version of ttClient (minecraft cheat). 
 
-<h3>Arhive password: <code>123456</code></h3>
+<h3>Archive password: <code>123456</code></h3>
