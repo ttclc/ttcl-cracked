@@ -21,7 +21,7 @@ def read_pyc_file(pyc_file):
         return marshal.load(file)
     
 if __name__ == "__main__":
-    if (sys.version_info.major, sys.version_info.minor) == (3, 11):
+    if (sys.version_info.major, sys.version_info.minor) != (3, 11):
         print("Python 3.11 is required for patching ttClient.")
         sys.exit(0)
 
