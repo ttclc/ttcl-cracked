@@ -118,6 +118,6 @@ if __name__ == "__main__":
 
     write_pyc_file(new_codeobj, output_file)
 
-    print("Writed to pyc file!")
+    print("Written to pyc file!")
     print("Operation successful!")
 
