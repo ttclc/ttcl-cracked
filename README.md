@@ -6,7 +6,7 @@ This repository contains a cracked version of ttClient (minecraft cheat).
 
 You can download `brave.rar` directly if you dont want to mess with cracking processes. 
 
-<h3>Archive password: <code>123456</code></h3>
+<b>Archive password: <code>123456</code></b>
 
 ------
 
